@@ -6,7 +6,7 @@
 Clone and enter the repo
 
 ```bash
-git clone https://github.com/matheuscosta2204/bookShelfMobile.git && cd bookShelfMobile
+git clone https://github.com/luisferrassini/baraoApp.git && cd baraoApp
 ```
 ### Second
 Install the node_modules repository
