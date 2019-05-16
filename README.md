@@ -2,7 +2,7 @@
 
 ## Installation
 
-### Fisrt
+### First
 Clone and enter the repo
 
 ```bash
